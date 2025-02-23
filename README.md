@@ -16,3 +16,4 @@ To get started, clone the repository:
 git clone https://github.com/0rlych1kk4/rust_tool_checker.git
 cd rust_tool_checker
 
+Co-authored commit
