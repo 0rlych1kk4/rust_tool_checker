@@ -17,3 +17,4 @@ git clone https://github.com/0rlych1kk4/rust_tool_checker.git
 cd rust_tool_checker
 
 Co-authored commit
+Updated README for co-authored commit
